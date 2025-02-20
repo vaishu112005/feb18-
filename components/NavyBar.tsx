@@ -41,7 +41,11 @@ export default function NavBar() {
                   Delete Student
                 </a>
               </li>
-              
+              <li className="nav-item">
+                <a className="nav-link" href="/addcar">
+                  Add Car
+                </a>
+              </li>
             </ul>
           </div>
         </div>
